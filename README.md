@@ -47,9 +47,22 @@ THEN the password is either displayed in an alert or written to the page
 
 
 
-## Description 
+## Assets
 
+The following images demonstrates the web application's appearance and functionality:
+
+
+![screenshot](Random-Password.png)
 
 
 
 ## Resources 
+
+
+Starter code provided by Friendly Parakeet
+
+Hudson assisted me in understanding the flow
+
+Tutor Sheetal helped me in structuring my arrays 
+
+Andrew helped me with github issues 

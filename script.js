@@ -56,7 +56,7 @@ function generatePasswordPrompts(){
 /*For as long as the empty string variable passwordChars length is less than the length entered by the user one random character from the allOptions array will be added */
 while (passwordChars.length < length ){
 
-  /*creates a varaible to  */
+  /*creates a varaible to randomize the allOptions array */
     randomAll = Math.floor(Math.random() * allOptions.length)
     passwordChars = passwordChars + allOptions[randomAll];
 
